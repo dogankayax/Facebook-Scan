@@ -1,0 +1,17 @@
+# Facebook-Scan specific ignores
+Turkey.txt
+Turkey.zip
+parcali_veri.*
+*.log
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Runtime artifacts
+*.tgz
+*.zip
